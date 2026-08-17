@@ -27,24 +27,12 @@
 **Araçlar:**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 📊 GitHub İstatistikleri
-
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ayfernaz-Baygin&show_icons=true&theme=default" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayfernaz-Baygin&layout=compact" />
-
-</div>
-
----
-
-<div align="center">
-
-📫 [LinkedIn](https://www.linkedin.com/in/ayfernaz-baygın) üzerinden bana ulaşabilirsin
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7D3C98,100:2E5FA3&height=100&section=footer" />
 
