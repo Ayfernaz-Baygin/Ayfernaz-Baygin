@@ -7,7 +7,7 @@
 ### 🙋‍♀️ Hakkımda
 
 - 🎓 Yaşar Üniversitesi, Yazılım Mühendisliği — 4. sınıf öğrencisi
-- 💻 Full-stack geliştirme deneyimim var; bir **e-imza API'si** geliştirdim
+- 💻 Full-stack geliştirme deneyimim var; ayrıca bir **e-imza API'si** geliştirdim
 - 🧠 Veri analizi ve yapay zeka konularına ilgi duyuyorum, bu alanda çalışmalar yapıyorum
 - 📫 Bana [LinkedIn üzerinden](https://www.linkedin.com/in/ayfernaz-baygın) ulaşabilirsin
 
